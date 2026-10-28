@@ -1,8 +1,8 @@
 # Practice App
 
-Version 1.0.0
+Version 2.0.0
 
-A tiny program that says hello.
+A tiny program that says hello and goodbye.
 
 ## Run it
 
